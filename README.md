@@ -1,6 +1,6 @@
 # SelectorsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4 and Node v16.17.1.
 
 ## Development server
 
